@@ -134,22 +134,6 @@ The waveform plots can be used to demonstrate the behaviour of the generated clo
 6. Plot the relevant signals such as `data1`, `code1`, `code2`, `ss`, `correct`, and `incorrect`.
 7. Compare the input and output waveforms.
 
-## Repository Structure
-
-```text
-CDMA-LTspice-Simulation/
-│
-├── CDMA.asc
-├── README.md
-│
-├── images/
-│   ├── schematic.png
-│   └── waveform.png
-│
-└── report/
-    └── CDMA_Report.pdf
-```
-
 ## Objective
 
 To simulate the basic operation of a **CDMA communication system** using LTspice and observe the behaviour of the digital signals involved in code generation, signal processing, and detection.
@@ -160,7 +144,7 @@ The LTspice simulation provides a digital implementation of the CDMA technique u
 
 ## Author
 
-**Your Name**
+**Barnik Chakraborty**
 
 ---
 
