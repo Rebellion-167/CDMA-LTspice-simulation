@@ -98,13 +98,15 @@ Therefore, the simulation runs for **20 ms** with a maximum timestep of **1 µs*
 
 Add a screenshot of the complete LTspice schematic here.
 
-![CDMA LTspice Schematic](images/schematic.png)
+![CDMA LTspice Schematic](schematic.png)
 
 ## Simulation Results
 
 Add screenshots of the important LTspice waveform windows here.
 
-![CDMA Simulation Waveforms](images/waveform.png)
+![CDMA Simulation Waveforms](waveform_1.png)
+---
+![CDMA Simulation Waveforms](waveform_2.png)
 
 The waveform plots can be used to demonstrate the behaviour of the generated clock, data, spreading/code signals, and the final detection outputs.
 
